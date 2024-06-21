@@ -5,7 +5,7 @@ I'm Justin!
 - 🏫 I’m a recent CS graduate from UC Berkeley :)
 - 🤔 I’m looking for opportunities!
 - 📫 Feel free to reach out at justinkim607@berkeley.edu
-- ⚡ Fun fact: I cut my own hair! if you're interested in a haircut... 👀 
+- ⚡ Fun fact: I cut my own hair! if you're interested in a haircut, reach out! 👀 
 
 <!--
 **justintaekim/justintaekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

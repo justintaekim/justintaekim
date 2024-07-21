@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Justin!
+I'm Justin :)
 - 🔭 I’m currently working on developing full-stack web apps that can provide convenience to users!
 - 🏫 I’m a recent CS graduate from UC Berkeley :)
 - 🤔 I’m looking for opportunities!

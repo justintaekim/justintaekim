@@ -7,7 +7,6 @@ I'm Justin :)
 - 🏫 I’m a recent CS graduate from UC Berkeley :)
 - 🤔 I’m looking for opportunities!
 - 📫 Feel free to reach out at justinkim607@berkeley.edu
-- ⚡ Fun fact: I cut my own hair! if you're interested in a haircut, reach out! 👀
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
